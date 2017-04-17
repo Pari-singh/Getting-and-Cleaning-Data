@@ -13,8 +13,8 @@ R script that analyze data gathered from smartphones accelerometers. Done as par
   2. Cast activity variable to factor
  3. Level activity variable to the loaded activity names
 6. Label the data set with descriptive variable names.
-  6.1. Make variables names lower case
-  6.2. Remove any dot from variable names
+ 1. Make variables names lower case
+2. Remove any dot from variable names
 7. Create an independent tidy data set with the average of each variable for each activity and each subject.
 8. Write the tidy data set to an output file.
 ## Codebook
