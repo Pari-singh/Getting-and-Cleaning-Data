@@ -5,9 +5,9 @@ R script that analyze data gathered from smartphones accelerometers. Done as par
 2. Merge the training and the test sets to create one data set.
 3. Load variable names from raw data separated file and assign them to the merged data
 4. Extract only the measurements on the mean and standard deviation for each measurement.
- 4.1. Get variable names for the mean measurements
- 4.2. Get variable names for the standard deviation measurements
- 4.3. Subset data selecting columns that are among the previous variable names
+4.1. Get variable names for the mean measurements
+4.2. Get variable names for the standard deviation measurements
+4.3. Subset data selecting columns that are among the previous variable names
 5. Use descriptive activity names to name the activities in the data set.
   5.1. Load activity names from raw data separated file
   5.2. Cast activity variable to factor
